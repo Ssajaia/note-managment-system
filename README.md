@@ -64,6 +64,6 @@ When using routes with titles or tags, URL-encode special characters and spaces.
 
 Searching and deleting by tag or title is case-insensitive.
 
-License
-MIT License
+
+
 
